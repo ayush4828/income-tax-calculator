@@ -74,3 +74,8 @@ It calculates tax based on predefined income slabs and displays the result insta
 ---
 
 ## 📂 Project Structure
+income-tax-calculator/<br>
+│      <br>
+├── index.html  <br>
+├── style.css   <br>
+└── script.js    <br>
