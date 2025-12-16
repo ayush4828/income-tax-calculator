@@ -79,3 +79,29 @@ income-tax-calculator/<br>
 ├── index.html  <br>
 ├── style.css   <br>
 └── script.js    <br>
+
+
+---
+
+## 🌐 Live Demo
+👉 https://your-username.github.io/income-tax-calculator/
+
+*(Enable GitHub Pages to view live demo)*
+
+---
+
+## 📸 Screenshot
+*(Add a screenshot here for better presentation)*
+
+---
+
+## 🎯 Future Improvements
+- Add multiple tax regimes
+- Show detailed tax breakdown
+- Input validation & error handling
+- Responsive UI enhancements
+
+---
+
+## 📄 License
+This project is open-source and intended for learning and practice purposes.
