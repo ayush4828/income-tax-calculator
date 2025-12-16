@@ -84,9 +84,7 @@ income-tax-calculator/<br>
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/income-tax-calculator/
-
-*(Enable GitHub Pages to view live demo)*
+👉 https://ayush4828.github.io/income-tax-calculator/
 
 ---
 
